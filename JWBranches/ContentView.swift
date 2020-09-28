@@ -10,7 +10,19 @@ import CoreData
 
 struct ContentView: View {
     var body: some View {
-        Text("United States of America")
+        VStack(alignment: .leading) {
+            Text("US Branch")
+                .font(.title)
+                .foregroundColor(.blue)
+            HStack {
+                Text("PATTERSON")
+                    .font(.subheadline)
+                Spacer()
+                Text("New York, NY")
+                    .font(.subheadline)
+            }
+        }
+        .padding()
     }
 }
     
