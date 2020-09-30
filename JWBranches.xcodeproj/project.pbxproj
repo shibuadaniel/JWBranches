@@ -16,6 +16,7 @@
 		D907134B25226076001E1D0D /* JWBranchesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D907134A25226076001E1D0D /* JWBranchesTests.swift */; };
 		D907135625226076001E1D0D /* JWBranchesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D907135525226076001E1D0D /* JWBranchesUITests.swift */; };
 		D9D8A6B02523B92900464723 /* USImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9D8A6AF2523B92900464723 /* USImage.swift */; };
+		D9FF782D252513950031DF60 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9FF782C252513950031DF60 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		D907135525226076001E1D0D /* JWBranchesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JWBranchesUITests.swift; sourceTree = "<group>"; };
 		D907135725226076001E1D0D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D9D8A6AF2523B92900464723 /* USImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = USImage.swift; sourceTree = "<group>"; };
+		D9FF782C252513950031DF60 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				D907133325226073001E1D0D /* JWBranchesApp.swift */,
 				D9D8A6AF2523B92900464723 /* USImage.swift */,
 				D907133525226073001E1D0D /* ContentView.swift */,
+				D9FF782C252513950031DF60 /* MapView.swift */,
 				D907133725226076001E1D0D /* Assets.xcassets */,
 				D907133C25226076001E1D0D /* Persistence.swift */,
 				D907134125226076001E1D0D /* Info.plist */,
@@ -269,6 +272,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D9D8A6B02523B92900464723 /* USImage.swift in Sources */,
+				D9FF782D252513950031DF60 /* MapView.swift in Sources */,
 				D907133D25226076001E1D0D /* Persistence.swift in Sources */,
 				D907133625226073001E1D0D /* ContentView.swift in Sources */,
 				D907134025226076001E1D0D /* JWBranches.xcdatamodeld in Sources */,
